@@ -5,6 +5,8 @@
 
 - 📫 How to reach me **polsh2001.1@gmail.com**
 
+- 🎮 About me: I can say that im somewone that i usally adapt fast to new conditions and always try's his best to learn on       new things. since I was a child I have always liked video games and ended up studing how to develop them.
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://stackoverflow.com/users/pchaozz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="pchaozz" height="30" width="40" /></a>

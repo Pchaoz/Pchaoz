@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **polsh2001.1@gmail.com**
 
-- 🎮 About me: I can say that im somewone that i usally adapt fast to new conditions and always try's his best to learn on       new things. since I was a child I have always liked video games and ended up studing how to develop them.
+- 🎮 About me: I can say that I am someone that I usually adapt fast to new conditions and always try his best to learn on      new things. Since I was a child I have always liked video games and ended up studying how to develop them.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

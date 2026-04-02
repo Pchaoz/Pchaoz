@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Pchaoz</h1>
 <h3 align="center">A studient that is intrested on learning GameDev from Spain</h3>
 
-- 🌱 I’m currently learning **Unity engine and Flutter**
+- 🌱 I’m currently learning **Unity engine, Flutter and React!**
 
 - 📫 How to reach me **polsh2001.1@gmail.com**
 

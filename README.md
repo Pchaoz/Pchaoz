@@ -13,11 +13,11 @@
 
 ### 🚀 What I'm working on
 
-**[Hyperfocus](https://github.com/Pchaozz/hyperfocus)** — A cross-platform task manager & calendar app with smart, highly configurable notifications. Built with Flutter (Android), Tauri 2 + React + TypeScript (desktop), and Supabase on the backend.
+**[Hyperfocus](https://github.com/Pchaoz/Hyperfocus)** — A cross-platform task manager & calendar app with smart, highly configurable notifications. Built with Flutter (Android), Tauri 2 + React + TypeScript (desktop), and Supabase on the backend.
 
 ### 📁 Past projects
 
-**[Magic Online Market](https://github.com/Pchaozz/magic-online-market)** — A multiplatform TCG marketplace. I developed the Flutter mobile app, designed the REST API, and handled Laravel Sanctum auth integration. Web side built with Laravel + Vue.js.
+**[Magic Online Market](https://github.com/Pchaoz/Magic-Online-Market)** — A multiplatform TCG marketplace. I developed the Flutter mobile app, designed the REST API, and handled Laravel Sanctum auth integration. Web side built with Laravel + Vue.js.
 
 ---
 
